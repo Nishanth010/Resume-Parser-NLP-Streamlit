@@ -6,7 +6,7 @@ Upload a PDF or DOCX resume and extract essential information like **Name, Email
 ---
 
 ## 🚀 Demo
-🔗 [Live Streamlit App](https://<your-username>.streamlit.app)
+🔗 [Live Streamlit App](https://resume-parser-nlp-app-ypa4a3cdzmchkeakvivcg8.streamlit.app/)
 
 ---
 
