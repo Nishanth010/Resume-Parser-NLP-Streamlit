@@ -7,7 +7,11 @@ import spacy
 import re
 
 # Load SpaCy NLP Model
+import spacy
+import spacy.cli
+spacy.cli.download("en_core_web_sm")
 nlp = spacy.load('en_core_web_sm')
+
 
 # Helper Functions
 def extract_text_from_pdf(uploaded_file):
